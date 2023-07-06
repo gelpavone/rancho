@@ -1,2 +1,2 @@
-<h3>Polls</h3>
+<h3 class="mb-5 text-lg">Polls</h3>
 <slot />
