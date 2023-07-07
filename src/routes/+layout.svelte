@@ -1,5 +1,5 @@
 <script>
-	import '../app.css';
+  import '../app.css';
 </script>
 
 <h1 class="text-blue-600 italic underline font-bold text-3xl">RANCHO</h1>
